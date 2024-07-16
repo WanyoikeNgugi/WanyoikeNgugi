@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WanyoikeNgugi
-- 👀 I’m interested in web Development, data science, machine learning and artificial intelligence
-- 🌱 I’m currently learning web development and data analysis
-- 💞️ I’m looking to collaborate on web development and data analysis projects
+- 👋 Hi, I’m James Ngugi
+- 👀 I’m interested in, data science, machine learning and artificial intelligence
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me jamesngugi967@gmail.com
 
 <!---
